@@ -620,30 +620,37 @@
             </div>
 
         </div>
-        <div class="col-sm-4">
-            <div class="team-member2">
-                <img src="<?php echo base_url('assets/img/ebc_material/Vasconcelos.jpg')?>" class="img-responsive img-circle img-contact" alt="">
-                <h4 style="color: orange">Ana Vasconcelos</h4>
-                <p class="text-muted" style="color: white">Responsável de Marketing</p>
-                <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:ana.mgfv@gmail.com"> ana.mgfv@gmail.com</a></p>
-            </div>
-        </div>
-        <div class="col-sm-4">
-            <div class="team-member2">
-                <img src="<?php echo base_url('assets/img/ebc_material/dinis.jpg')?>" class="img-responsive img-circle img-contact" alt="">
-                <h4 style="color: orange">Dinis Bruno</h4>
-                <p class="text-muted "style="color: white">Responsável de Tecnologias da Informação</p>
-                <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:dinis97b@gmail.com"> dinis97b@gmail.com</a></p>
-            </div>
-        </div>
-        <div class="col-sm-4">
-            <div class="team-member2">
-                <img src="<?php echo base_url('assets/img/team/francisca.jpg')?>" class="img-responsive img-circle img-contact" alt="">
-                <h4 style="color: orange">Francisca Bragança</h4>
-                <p class="text-muted" style="color: white">Responsável de Participantes</p>
-                <p><i class="fa fa-envelope" style="color: orange"></i><a href="mailto:franciscabraganca9@gmail.com"> franciscabraganca9@gmail.com</a></p>
-            </div>
 
+            <div class="row">
+                <div class="col-sm-2">
+                    <div class="team-member2">
+
+                    </div>
+                </div>
+            <div class="col-sm-4">
+                <div class="team-member2">
+                    <img src="<?php echo base_url('assets/img/ebc_material/Vasconcelos.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <h4 style="color: orange">Ana Vasconcelos</h4>
+                    <p class="text-muted" style="color: white">Responsável de Marketing</p>
+                    <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:ana.mgfv@gmail.com"> ana.mgfv@gmail.com</a></p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member2">
+                    <img src="<?php echo base_url('assets/img/ebc_material/dinis.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <h4 style="color: orange">Dinis Bruno</h4>
+                    <p class="text-muted "style="color: white">Responsável de Tecnologias da Informação</p>
+                    <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:dinis97b@gmail.com"> dinis97b@gmail.com</a></p>
+                </div>
+            </div>
+<!--        <div class="col-sm-4">-->
+<!--            <div class="team-member2">-->
+<!--                <img src="--><?php //echo base_url('assets/img/team/francisca.jpg')?><!--" class="img-responsive img-circle img-contact" alt="">-->
+<!--                <h4 style="color: orange">Francisca Bragança</h4>-->
+<!--                <p class="text-muted" style="color: white">Responsável de Participantes</p>-->
+<!--                <p><i class="fa fa-envelope" style="color: orange"></i><a href="mailto:franciscabraganca9@gmail.com"> franciscabraganca9@gmail.com</a></p>-->
+<!--            </div>-->
+<!---->
         </div>
 
 
