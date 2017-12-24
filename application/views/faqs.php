@@ -2,7 +2,6 @@
     <div class="row">
 
         <div  class="col-lg-12 center" style="left:200px">
-            <img class="img_bird" src="<?php echo base_url('assets/img/ebc_material/bird.png')?>">
         </div>
         <div class="col-lg-12 text-center">
 
@@ -118,7 +117,7 @@
                     <div id="collapse7" class="panel-collapse collapse">
                         <div class="panel-body">
                             Sim, ao longo do fim-de-semana terás direito a todas as refeições enquanto estiveres a
-                            participar na prova. Terás também disponível um coffe break contínuo durante todo o
+                            participar na prova. Terás também disponível um coffee break contínuo durante todo o
                             fim-de-semana.
                         </div>
                     </div>

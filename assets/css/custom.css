@@ -1866,8 +1866,7 @@ body h1 {
   background-image: url("bg-aveiro.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: 100%;
-}
+  background-size: 100%;  }
 .bg-aveiro2{
   background-image: url("bg-aveiro2.jpg");
   background-attachment: fixed;
@@ -1891,7 +1890,7 @@ body h1 {
   /*margin-bottom: 0px;*/
   top:0px;
   left:150px;
-  width: 70%;
+  width: 80%;
   /*height: auto;*/
 }
 .img-objeto2{

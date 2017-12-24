@@ -74,7 +74,7 @@
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav hvr-sweep-to-right">
                       <li>
-                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/index')?>">EBEC Challenge Aveiro</a>
+                          <a class="page-scroll" href="<?php echo base_url('#EBEC-Challenge')?>">EBEC Challenge Aveiro</a>
                       </li>
                       <li>
                           <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/faqs')?>">FAQs</a>
@@ -99,7 +99,7 @@
 <!--                          </ul>-->
 <!--                      </li>-->
                       <li>
-                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/querparceiro')?>">Seja o nosso parceiro</a>
+                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/querparceiro')?>">Seja nosso parceiro</a>
                       </li>
                       <script>
                           var x = document.getElementById('box');

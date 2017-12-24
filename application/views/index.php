@@ -26,9 +26,14 @@
 </script>
 
 <!--Background-->
-<section class="bg-aveiro" style="height: 750px">
-    <img class="main-logo" src="<?php echo base_url('assets/img/ebc_material/logo.png')?>">
-    <h1 class="date title_color_diego_orange"><b>15, 16, 17, 18 e 21 de março</b></h1>
+<section class="bg-aveiro" style="height: 20cm">
+    <div style="opacity: 1">
+        <img class="main-logo" style="opacity: 1" src="<?php echo base_url('assets/img/ebc_material/logo.png')?>">
+        <h1 class="date title_color_diego_orange"><b>15, 16, 17, 18 e 21 de março</b></h1>
+    </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div id="EBEC-Challenge">
+
+    </div>
 </section>
 
 <!--Tab-->
@@ -44,18 +49,53 @@
 
     <!--    Mini-ícones-->
     <ul>
-        <li title="Features">
+        <li title="">
             <label for="tab1" role="button">
-                <svg viewBox="0 0 24 24">
-                    <path d="M14,2A8,8 0 0,0 6,10A8,8
-        0 0,0 14,18A8,8 0 0,0 22,10H20C20,13.32 17.32,16 14,16A6,6 0 0,1 8,10A6,6 0 0,1 14,4C14.43,4 14.86,4.05 15.27,4.
-        14L16.88,2.54C15.96,2.18 15,2 14,2M20.59,3.58L14,10.17L11.62,7.79L10.21,9.21L14,13L22,5M4.93,5.82C3.08,7.34 2,9.
-        61 2,12A8,8 0 0,0 10,20C10.64,20 11.27,19.92 11.88,19.77C10.12,19.38 8.5,18.5 7.17,17.29C5.22,16.25 4,14.21 4,12
-        C4,11.7 4.03,11.41 4.07,11.11C4.03,10.74 4,10.37 4,10C4,8.56 4.32,7.13 4.93,5.82Z"/>
+                <svg viewBox="0 0 490 490">
+                    <g>
+                        <path d="M245.001,0C156.458,0,84.424,71.987,84.424,160.472c0,85.04,145.93,315.146,152.142,324.9
+		c1.836,2.882,5.017,4.628,8.435,4.628c3.418,0,6.599-1.746,8.434-4.628c6.212-9.754,152.141-239.861,152.141-324.9
+		C405.576,71.987,333.542,0,245.001,0z M245.001,461.127c-13.207-21.363-40.009-65.587-66.549-114.588
+		c-48.429-89.418-74.027-153.758-74.027-186.067C104.424,83.015,167.487,20,245.001,20c77.514,0,140.575,63.015,140.575,140.472
+		c0,32.309-25.599,96.649-74.027,186.067C285.009,395.539,258.207,439.764,245.001,461.127z"/>
+                        <path d="M244.999,76.071c-41.884,0-75.959,33.149-75.959,73.894c0,40.744,34.075,73.891,75.959,73.891s75.959-33.147,75.959-73.891
+		C320.958,109.22,286.883,76.071,244.999,76.071z M244.999,203.855c-30.855,0-55.959-24.175-55.959-53.891
+		c0-29.717,25.104-53.894,55.959-53.894s55.959,24.177,55.959,53.894C300.958,179.68,275.855,203.855,244.999,203.855z"/>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
+                    <g>
+                    </g>
                 </svg>
                 <br>
                 <span>Ronda Local</span></label></li>
-        <li title="Delivery Contents"><label for="tab2" role="button"><svg viewBox="0 0 24 24">
+        <li title=""><label for="tab2" role="button"><svg viewBox="0 0 24 24">
                     <svg viewBox="0 0 415.998 415.998">
                         <path d="M367.998,95.999c0-17.673-14.326-32-31.999-32h-44.424c-5.926-6.583-13.538-11.62-22.284-14.136
 			c-7.367-2.118-13.037-7.788-15.156-15.155C248.37,14.664,229.897,0,207.998,0c-21.898,0-40.37,14.663-46.134,34.706
@@ -109,7 +149,7 @@
                     </svg>
                     <br>
                     <span>Programa</span></label></li>
-        <li title="Shipping"><label for="tab3" role="button"><svg viewBox="0 0 481.763 481.763">
+        <li title=""><label for="tab3" role="button"><svg viewBox="0 0 481.763 481.763">
                     <path d="M453.584,405.715L298.332,250.457c-1.454-1.46-3.009-2.755-4.61-3.967l27.497-28.954c1.406-1.416,2.736-2.905,3.96-4.436
 		c36.505,13.77,79.34,6.029,108.682-23.309c21.402-21.409,32.195-51.013,29.583-81.226c-0.283-3.419-2.548-6.375-5.769-7.542
 		c-3.228-1.179-6.845-0.375-9.274,2.045l-49.757,49.754l-50.377-12.699l-14.287-51.967l49.745-49.748
@@ -140,7 +180,7 @@
                 </svg>
                 <br>
 
-                <span>Modalidades</span></label></li>    <li title="Returns"><label for="tab4" role="button"><svg viewBox="0 0 511.999 511.999">
+                <span>Modalidades</span></label></li>    <li title=""><label for="tab4" role="button"><svg viewBox="0 0 511.999 511.999">
                     <path d="M327.941,121.658c-1.395-4.288-5.103-7.414-9.566-8.064l-35.758-5.196l-15.991-32.402
 			c-1.997-4.044-6.116-6.605-10.626-6.605c-4.511,0-8.63,2.561-10.626,6.605l-15.991,32.402l-35.758,5.196
 			c-4.464,0.648-8.172,3.775-9.566,8.065c-1.393,4.291-0.231,8.999,2.999,12.148l25.875,25.221l-6.109,35.613
@@ -212,10 +252,10 @@
 
                         </p>
 
-                        <p class="text-justify textsize ">
-                            <a href="<?php echo base_url('index.php/frontpage/apply')?>" style="color: #EEA225">
-                                <b>Não percas esta competição!</b>
-                            </a>
+                        <p class="text-justify textsize " style="color: #EEA225">
+<!--                            <a href="--><?php //echo base_url('index.php/frontpage/apply')?><!--" style="color: #EEA225">-->
+                                <b>Incrições abrem em!</b>
+<!--                            </a>-->
                         </p>
                     </div>
                 </div>
@@ -238,10 +278,10 @@
         <section id="backgroung_section_blue">
             <div class="row" style="background-color: #EEA225">
                 <div class="col-lg-12 text-center box-diego">
-                    <h2 class="section-heading">Modalidades</h2>
+                    <h2 class="section-heading" id="Modalidades">Modalidades</h2>
                     <div class="col-md-5">
                         <div class="orange-box">
-                            <h3 class="text-white text-justify title_color_diego_blue">
+                            <h3 class="title_color_diego_blue text-center">
                                 Case Study
                             </h3>
                             <p class="text-muted text-justify text-white">
@@ -249,8 +289,6 @@
                                 empresas, que  deverão consistir num problema que poderá advir da necessidade da empresa
                                 em inovar ou otimizar processos. Cada um dos casos de estudo deverá estar preparado
                                 para corresponder a 12 horas de prova, sendo entregue aos participantes no início da competição.
-
-
                         </div>
                     </div>
                     <div class="col-md-2" style="background-color: #EEA225">
@@ -258,7 +296,7 @@
                     </div>
                     <div class="col-md-5">
                         <div class="orange-box2" style="height:300px">
-                            <h3 class="text-white text-justify title_color_diego_blue">
+                            <h3 class="title_color_diego_blue text-center">
                                 Team Design
                             </h3>
                             <p class="text-muted text-justify text-white">
@@ -380,38 +418,15 @@
             </div>
         </div>
         <br>
-        <div class="row">
-            <div class="col-lg-12 text-center title_color_diego_orange">
-                <h3 class="section-heading">O que são?</h3>
-                <br/>
-            </div>
-        </div>
-        <div class="row vertical-align">
-            <div class="col-md-12">
-                <p class="text-muted text-justify text-white">
-                    Os <b style="color: orange">BEST Training Days</b> (BTDs) visam proporcionar aos estudantes da Universidade de Aveiro a
-                    possibilidade de participarem em formações de soft skills durante o ano letivo. A seleção dos temas
-                    a abordar é planeada estrategicamente e anualmente consoante as preferências e necessidades dos
-                    estudantes identificadas através de um inquérito e de acordo com a disponibilidade dos formadores que
-                    podem ou não ser da própria organização.
-                </p>
-                <p class="text-muted text-justify text-white pull-right text-white">
-                    <a href="http://bestaveiro.web.ua.pt/btds.html" target="_blank">
-                        <b>Vê as edições anteriores!</b>
-                    </a>
-                </p>
-            </div>
-        </div>
-    </div>
 </section>
 
 
 <!-- Testemunhos -->
-<section id="backgroung_section_orange">
+<section>
     <div class="row">
         <div class="col-lg-12 text-center">
             <h2 class="section-heading title_color_diego_blue">Testemunhos</h2>
-            <h3 class="section-subheading" style="color: #ffffff;">Professores e Participantes</h3>
+            <h3 class="section-subheading text-muted">Professores e Participantes</h3>
         </div>
         <div class='col-md-offset-1 col-md-10' style="margin-top: -50px;">
             <div class="carousel slide" data-ride="carousel" id="quote-carousel">
@@ -432,26 +447,29 @@
                         <blockquote>
                             <div class="row">
                                 <div class="col-sm-3 text-center">
-                                    <img class="img-circle" src="<?php echo base_url('assets/img/ebec-aveiro/testimonials/1.jpg')?>">
+                                    <img class="img-circle" src="<?php echo base_url('assets/img/testimonials/1.jpg')?>" style="width: 100px;height:100px;">
                                 </div>
                                 <div class="col-sm-8">
-                                    <p class="text-justify">Na Universidade de Aveiro, as atividades do BEST Aveiro, nomeadamente
-                                        no contexto das competições EBEC, têm sido claros exemplos de sucesso. Por um lado, mobilizam
-                                        um número considerável de pessoas, entre participantes, colaboradores diversos e assistência.
-                                        Por outro lado, apresentam-se como excelentes iniciativas no âmbito de ciências, tecnologia e
-                                        engenharia. Os desafios propostos promovem um evidente crescimento dos envolvidos, em questões
-                                        tão diversas quanto a aplicação prática de conhecimentos científicos ou a imaginação e criatividade
-                                        exigidos.<br/>
-                                        Os participantes beneficiam ainda das exigências de um trabalho de equipa com objetivos bem
-                                        definidos e um prazo muito apertado, assim como de um contacto direto com representantes de
-                                        empresas e instituições de relevo.<br/>
-                                        Este é, aliás, um dos marcadores essenciais do mérito desta organização, sempre apoiada por diversas
-                                        entidades que constatam o dinamismo e a qualidade do BEST Aveiro.
+                                    <p class="text-justify">Após ter sido participante da EBEC Aveiro 2016, surgiu a
+                                        oportunidade de ser Coordenador da EBEC Aveiro 2017. Desde então, passaram-se 6
+                                        meses em que todos os dias eram diferentes. Era necessário organizar-me diariamente,
+                                        para conseguir conciliar os estudos e o trabalho que tinha para a EBEC Aveiro,
+                                        sem nunca perder a motivação para nenhum destes aspetos.<br>
+                                        Nesta edição, contámos com a presença de um Main Sponsor do evento - a Mahle;
+                                        reformulamos a modalidade de Case Study - fizemos 2 provas em 24h; mantivemos a
+                                        existência de um workshop e de uma feira de empresas, desta vez com um espaço de
+                                        Cocktail Network. A experiência tornou-se assim enriquecedora - criar e coordenar
+                                        uma equipa, manter todos motivados, encontrar e resolver problemas que apareciam
+                                        todas as semanas - pode parecer duro (e é) mas, na verdade, hoje sou facilmente
+                                        capaz de dizer que valeu a pena por todas as aprendizagens que eu e a minha
+                                        equipa trouxemos para nós, como estudantes, como futuros trabalhadores e também
+                                        como pessoas. <br>
+                                        Por último, gostaria de deixar um apelo a todos: explorem áreas de conhecimento que
+                                        não conhecem, saiam da vossa zona de conforto e agarrem as oportunidades que aparecem."
                                     </p>
-                                    <small style="color: #ffffff">
-                                        Professor João Oliveira<br/>
-                                        Departamento de Engenharia Mecânica<br/>
-                                        Universidade de Aveiro
+                                    <small class="text-muted">
+                                        Pedro Reis<br/>
+                                        Coordenador da EBEC Aveiro 2017<br/>
                                     </small>
                                 </div>
                             </div>
@@ -463,56 +481,58 @@
                         <blockquote>
                             <div class="row">
                                 <div class="col-sm-3 text-center">
-                                    <img class="img-circle" src="<?php echo base_url('assets/img/ebec-aveiro/testimonials/2.jpg')?>" style="width: 100px;height:100px;">
+                                    <img class="img-circle" src="<?php echo base_url('assets/img/testimonials/2.jpg')?>" style="width: 100px;height:100px;">
                                 </div>
                                 <div class="col-sm-8">
                                     <p class="text-justify">
-                                        Tendo já participado em edições anteriores, a decisão de participar na edição da EBEC 2014 deveu-se
-                                        sobretudo ao espírito de competição saudável, sem nunca esquecer o objetivo final de alcançar a
-                                        EBEC Internacional. Após a vitória na fase local, onde a competição foi muito disputada até ao fim,
-                                        fomos para a EBEC Portugal com um peso de responsabilidade muito grande por representar a UA. Nunca
-                                        desistimos e realizando um excelente trabalho de equipa, e fazendo uso de todo o conhecimento
-                                        transmitido tanto pelos workshops, como pelas empresas presentes no evento, conseguimos triunfar!
-                                        Chegando à fase Internacional, foi um sonho tornado realidade: representar a UA numa competição
-                                        europeia! Foi uma experiência inesquecível, tanto no âmbito competitivo como em experiência
-                                        profissional e pessoal. Contactamos com empresas internacionais de renome e, sobretudo,
-                                        aprendemos com elas e com todos os participantes de diferentes nacionalidades!<br/>
-                                        Resumindo, participar na EBEC é uma experiência muito gratificante e enriquecedora que
-                                        melhora-nos como pessoas e como profissionais!<br/>
-                                        É um evento excelente onde é possível redescobrir-nos e aumentar os nossos limites!
+                                        Participar pela primeira vez na EBEC foi mais do que aceitar um desafio, foi
+                                        abraçar novos métodos de pensamento. A ideia era participar em algo que testasse
+                                        a nossa capacidade para resolver um problema em equipa.<br>
+
+                                        O mais engraçado foi como a nossa ideia desta aventura mudou, de antes para depois!
+                                        Sabíamos mais ou menos como o desafio iria decorrer, mas foi muito melhor do que
+                                        estávamos à espera, foram dias bastante cansativos e trabalhosos, mas também nos
+                                        divertimos à brava, cada etapa concluída do nosso projeto deixava sorrisos nas nossas caras, cada
+                                        coffee break com a equipa dava uns belos minutos de descontração para falarmos
+                                        não entre nós (como equipa) como também para os nossos colegas contra quem
+                                        estávamos a competir (foi sempre uma competição muito amigável)! <br>
+                                        Deixo os meus grandes parabéns à equipa que desenvolveu esta grande aventura que ficará sempre
+                                        gravada nas nossas memórias. Não houve praticamente falhas nenhumas na organização
+                                        do evento! Foi dos melhores projetos em que eu alguma vez aceitei participar!"
                                     </p>
-                                    <small style="color: #ffffff">
-                                        Tiago Paixão<br/>
-                                        Participante da EBEC Final 2014
+                                    <small class="text-muted">
+                                        Pedro Rocha<br/>
+                                        Vencedor da EBEC Aveiro 2017<br/>
+                                        Modalidade: Team Design
                                     </small>
                                 </div>
                             </div>
                         </blockquote>
                     </div>
 
+
                     <!-- Quote 3 -->
                     <div class="item">
                         <blockquote>
                             <div class="row">
                                 <div class="col-sm-3 text-center">
-                                    <img class="img-circle" src="<?php echo base_url('assets/img/ebec-aveiro/testimonials/3.jpg')?>" style="width: 100px;height:100px;">
+                                    <img class="img-circle" src="<?php echo base_url('assets/img/testimonials/3.jpg')?>" style="width: 100px;height:100px;">
                                 </div>
                                 <div class="col-sm-8">
-                                    <p class="text-justify">Tomei contacto com o BEST Aveiro em 2010, quando recebi o convite
-                                        para ser parte do júri de avaliação e seriação nas provas que decorreram na Universidade de Aveiro.
-                                        Desde o primeiro momento, fiquei extremamente impressionado com o elevado nível de organização e
-                                        profissionalismo da equipa, e com a sua capacidade para liderar e motivar todos os participantes
-                                        com o objectivo de se superarem nas provas que lhes foram propostas.<br/>
-                                        Como engenheiro mecânico de formação, líder de uma equipa de investigação de alto nível, e com base
-                                        nos 12 anos de experiência pedagógica que tenho em Universidades portuguesas e no estrangeiro,
-                                        estou perfeitamente à vontade para dizer que esta foi certamente uma das experiências mais
-                                        gratificantes que pude presenciar no que toca à colocar em prática conhecimentos de engenharia na
-                                        resolução de casos de estudo complexos.
+                                    <p class="text-justify">
+                                        Da minha experiência da EBEC do ano passado só tenho a dizer aspetos positivos,
+                                        a logística do evento é muito interessante e desafiadora, obrigando-nos a aprender
+                                        sobre um determinado tema em pouco tempo, o que nos faz desenvolver como alunos e futuros engenheiros.
+                                        <br>
+                                        Para concluir, a EBEC é um excelente concurso para quem gosta de desafios e para por em prática o que vamos aprendendo.
+                                        <br>
+                                        Para concluir, a EBEC é um excelente concurso para quem gosta de desafios e para por em prática o que vamos aprendendo."
+
                                     </p>
-                                    <small style="color: #ffffff">
-                                        Professor Robertt Valente<br/>
-                                        Departamento de Engenharia Mecânica<br/>
-                                        Universidade de Aveiro
+                                    <small class="text-muted">
+                                        Pedro Rolo<br/>
+                                        Vencedor da EBEC Aveiro 2017<br/>
+                                        Modalidade: Case Study
                                     </small>
                                 </div>
                             </div>
@@ -524,35 +544,7 @@
                         <blockquote>
                             <div class="row">
                                 <div class="col-sm-3 text-center">
-                                    <img class="img-circle" src="<?php echo base_url('assets/img/ebec-aveiro/testimonials/4.jpg')?>" style="width: 100px;height:100px;">
-                                </div>
-                                <div class="col-sm-8">
-                                    <p class="text-justify">
-                                        O meu nome é Pedro Magalhães e sou estudante de Engenharia Eletrónica e Telecomunicações. Participei
-                                        na EBEC no meu primeiro ano de Universidade e desde aí fiquei apaixonado pelo evento. Se há algo que
-                                        me motiva são desafios de Engenharia e a EBEC tem-me surpreendido ano após ano.<br/>
-                                        Na ultima edição tive a oportunidade de estar nas 3 fases do evento e foi uma experiência fantástica
-                                        a todos os níveis, começando pelos problemas reais que nos foram propostos e acabando no espírito
-                                        de equipa e entreajuda que se criou no evento, não esquecendo a qualidade da organização a que já
-                                        estamos habituados dos eventos BEST.<br/>
-                                        Iniciativas como esta dão oportunidade aos estudantes de se tornarem mais completos e multifacetados
-                                        e isso é indispensável para um futuro profissional promissor.
-                                    </p>
-                                    <small style="color: #ffffff">
-                                        Pedro Magalhães<br/>
-                                        Participante da EBEC Final 2015
-                                    </small>
-                                </div>
-                            </div>
-                        </blockquote>
-                    </div>
-
-                    <!-- Quote 5 -->
-                    <div class="item">
-                        <blockquote>
-                            <div class="row">
-                                <div class="col-sm-3 text-center">
-                                    <img class="img-circle" src="<?php echo base_url('assets/img/ebec-aveiro/testimonials/5.jpg')?>" style="width: 100px;height:100px;">
+                                    <img class="img-circle" src="<?php echo base_url('assets/img/testimonials/4.jpg')?>" style="width: 100px;height:100px;">
                                 </div>
                                 <div class="col-sm-8">
                                     <p class="text-justify">
@@ -565,11 +557,46 @@
                                         soluções apresentadas, estudadas e concretizadas “non-stop” em contra relógio e com recursos
                                         limitados, demonstraram as capacidades de raciocínio, técnica e de invenção dos concorrentes,
                                         tanto individualmente como em equipa. Parabéns EBEC Challenge Aveiro e venha a próxima, pois eventos como
-                                        este são essenciais para o fortalecimento do futuro tecido empresarial inovador do país.
+                                        este são essenciais para o fortalecimento do futuro tecido empresarial inovador do país."
                                     </p>
-                                    <small style="color: #ffffff">
+                                    <small class="text-muted">
                                         Professor Luís Rino<br/>
                                         Departamento de Física<br/>
+                                        Universidade de Aveiro
+                                    </small>
+                                </div>
+                            </div>
+                        </blockquote>
+                    </div>
+
+                    <!-- Quote 5 -->
+                    <div class="item">
+                        <blockquote>
+                            <div class="row">
+                                <div class="col-sm-3 text-center">
+                                    <img class="img-circle" src="<?php echo base_url('assets/img/testimonials/5.jpg')?>" style="width: 100px;height:100px;">
+                                </div>
+                                <div class="col-sm-8">
+                                    <p class="text-justify">
+                                        Na Universidade de Aveiro, as atividades do BEST Aveiro, nomeadamente no contexto
+                                        das competições EBEC, têm sido claros exemplos de sucesso. Por um lado, mobilizam
+                                        um número considerável de pessoas, entre participantes, colaboradores diversos e
+                                        assistência. Por outro lado, apresentam-se como excelentes iniciativas no âmbito
+                                        de ciências, tecnologia e engenharia. Os desafios propostos promovem um evidente
+                                        crescimento dos envolvidos, em questões tão diversas quanto a aplicação prática
+                                        de conhecimentos científicos ou a imaginação e criatividade exigidos.
+                                        <br/>
+                                        Os participantes beneficiam ainda das exigências de um trabalho de equipa com
+                                        objetivos bem definidos e um prazo muito apertado, assim como de um contacto
+                                        direto com representantes de empresas e instituições de relevo.
+                                        <br/>
+                                        Este é, aliás, um dos marcadores essenciais do mérito desta organização, sempre
+                                        apoiada por diversas entidades que constatam o dinamismo e a qualidade do BEST
+                                        Aveiro."
+                                    </p>
+                                    <small class="text-muted">
+                                        Professor João Oliveira<br/>
+                                        Departamento de Engenharia Mecânica<br/>
                                         Universidade de Aveiro
                                     </small>
                                 </div>
@@ -596,26 +623,23 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="team-member2">
-                    <img src="<?php echo base_url('assets/img/ebc_material/Valente.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <img src="<?php echo base_url('assets/img/team/Valente.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">João Valente</h4>
                     <p class="text-muted" style="color: white">Coordenador da EBEC Challenge Aveiro</p>
-                    <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:jnvalente2@gmail.com "> jnvalente2@gmail.com </a></p>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="team-member2">
-                    <img src="<?php echo base_url('assets/img/ebc_material/rafaela.png')?>" class="img-responsive img-circle img-contact" alt="">
+                    <img src="<?php echo base_url('assets/img/team/Rafa.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Rafaela Reis</h4>
                     <p class="text-muted "style="color: white">Responsável de Conteúdos Competitivos</p>
-                    <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:sareisrafaela@gmail.com "> sareisrafaela@gmail.com</a></p>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="team-member2">
-                    <img src="<?php echo base_url('assets/img/ebc_material/catarina.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <img src="<?php echo base_url('assets/img/team/Catarina.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Catarina Lopes</h4>
                     <p class="text-muted"style="color: white">Responsável de Relações Empresariais</p>
-                    <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:catarinavslopes5@gmail.com"> catarinavslopes5@gmail.com</a></p>
                 </div>
             </div>
 
@@ -629,18 +653,16 @@
                 </div>
             <div class="col-sm-4">
                 <div class="team-member2">
-                    <img src="<?php echo base_url('assets/img/ebc_material/Vasconcelos.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <img src="<?php echo base_url('assets/img/team/Vasconcelos.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Ana Vasconcelos</h4>
                     <p class="text-muted" style="color: white">Responsável de Marketing</p>
-                    <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:ana.mgfv@gmail.com"> ana.mgfv@gmail.com</a></p>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="team-member2">
-                    <img src="<?php echo base_url('assets/img/ebc_material/dinis.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <img src="<?php echo base_url('assets/img/team/Dinis.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Dinis Bruno</h4>
-                    <p class="text-muted "style="color: white">Responsável de Tecnologias da Informação</p>
-                    <p><i class="fa fa-envelope"style="color: orange"></i><a href="mailto:dinis97b@gmail.com"> dinis97b@gmail.com</a></p>
+                    <p class="text-muted "style="color: white">Responsável de Tecnologias de Informação</p>
                 </div>
             </div>
 <!--        <div class="col-sm-4">-->
