@@ -831,6 +831,12 @@ p.large {
   padding-top: 10px;
   margin: 20px;
 }
+.white-box{
+  background: #ffffff;
+  padding: 30px;
+  padding-top: 10px;
+  margin: 20px;
+}
 .orange-box2 {
   background: #EEA225;
   padding: 30px;
@@ -1863,10 +1869,12 @@ body h1 {
   height: auto;
 }
 .bg-aveiro{
-  background-image: url("bg-aveiro.jpg");
+  position: relative;
+  background-image: url("bg-aveiro2.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: 100%;  }
+  background-size:100%;
+  opacity: 0.8;}
 .bg-aveiro2{
   background-image: url("bg-aveiro2.jpg");
   background-attachment: fixed;
@@ -1875,10 +1883,11 @@ body h1 {
 }
 .main-logo{
 
-  position:absolute;
-  left:650px;
-  width: 30%;
-  top:80px;
+  position:relative;
+  /*text-align:center;*/
+  left:55px;
+  top:160px;
+  width: 95%;
   /*left:500px;*/
 }
 
@@ -1889,13 +1898,13 @@ body h1 {
   /*margin-right: auto;*/
   /*margin-bottom: 0px;*/
   top:0px;
-  left:150px;
-  width: 80%;
+  left:200px;
+  width: 90%;
   /*height: auto;*/
 }
 .img-objeto2{
   position: absolute;
-  width:80%;
+  width:100%;
   left: 0px;
   top: 10px;
 }
@@ -1925,13 +1934,23 @@ body h1 {
 }
 
 .date{
-  position: absolute;
+  position: relative;
+  color: #000000;
+  top: 140px;
+  height:100px;
+  /*left:30px;*/
+  /*size: 230px;*/
 
-  text-after-overflow: center;
-  color: #294F66;;
-  /*border: 1px solid #294F66;*/
-  top: 315px;
-  left:705px;
-  size: 230px;
+}
 
+.position_div{
+  position: relative;
+  top:120px;
+}
+
+.img-ebec-final{
+  position: relative;
+  top:45px;
+  width: 85%;
+  left: 15px;
 }

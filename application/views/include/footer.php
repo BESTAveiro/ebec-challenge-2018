@@ -15,7 +15,7 @@
 		</div>
 		<div class="col-md-1 col-sm-4 col-xs-4">
 			<a href="http://www.ordemengenheiros.pt/" target="_blank">
-				<img class="img-responsive img-grayscale img-footer img-center" alt="" src="<?php echo base_url('assets/img/partners/annual/ordem.jpg') ?>">					
+				<img class="img-responsive img-grayscale img-footer img-center" alt="" src="<?php echo base_url('assets/img/partners/annual/ordem.png') ?>">
 			</a>
 		</div>
 <!--		<div class="col-md-1 col-sm-4 col-xs-4">-->

@@ -1,4 +1,6 @@
+ 
 <?php if (!defined('BASEPATH')) die();
+
 class Frontpage extends Main_Controller {
 
    public function index()

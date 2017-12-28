@@ -1,4 +1,4 @@
-﻿<section id="backgroung_section_orange" style="height:120px">
+﻿<section>
     <div class="row">
 
         <div  class="col-lg-12 center" style="left:200px">
@@ -10,7 +10,7 @@
         </div>
     </div>
 </section>
-<section id="backgroung_section_orange">
+<section>
     <div class="row">
         <div class="container">
             <div class="panel-group" id="accordion">
