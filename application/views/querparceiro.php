@@ -116,20 +116,20 @@
                 </p>
                 <p class="d" style="color:#ffffff">
                     Ao ser parceira da EBEC Aveiro 2017 numa das modalidades do evento, terá acesso a um contacto direto com os participantes através das provas.
-                    De acordo com a <a href="http://bestaveiro.web.ua.pt/ebec-challenge/index.php/frontpage/index#Modalidades" target="_blank">modalidade em questão</a>, os participantes terão pela frente a resolução de um desafio lançado pela empresa.
+                    De acordo com a <b style="color: orange">modalidade em questão</b>, os participantes terão pela frente a resolução de um desafio lançado pela empresa.
                 </p>
-                <div  class="col-md-1"></div>
-                <div  class="col-md-1">
-                    <img class="img_martelo" src="<?php echo base_url('assets/img/ebc_material/martelo.png')?>">
-                </div>
-                <div  class="col-md-1"></div>
-                <div  class="col-md-1">
-                    <img class="img_cerra" src="<?php echo base_url('assets/img/ebc_material/cerra.png')?>">
-                </div>
-                <div  class="col-md-4"></div>
-                <div  class="col-md-1">
-                    <img class="img_objeto" src="<?php echo base_url('assets/img/ebc_material/objeto.png')?>">
-                </div>
+<!--                <div  class="col-md-1"></div>-->
+<!--                <div  class="col-md-1">-->
+<!--                    <img class="img_martelo" src="--><?php //echo base_url('assets/img/ebc_material/martelo.png')?><!--">-->
+<!--                </div>-->
+<!--                <div  class="col-md-1"></div>-->
+<!--                <div  class="col-md-1">-->
+<!--                    <img class="img_cerra" src="--><?php //echo base_url('assets/img/ebc_material/cerra.png')?><!--">-->
+<!--                </div>-->
+<!--                <div  class="col-md-4"></div>-->
+<!--                <div  class="col-md-1">-->
+<!--                    <img class="img_objeto" src="--><?php //echo base_url('assets/img/ebc_material/objeto.png')?><!--">-->
+<!--                </div>-->
             </div>
         </div>
     </div>

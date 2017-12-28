@@ -53,14 +53,14 @@
       <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container">
               <div class="navbar-header">
-                  <a class="navbar-brand" href="<?php echo base_url('index.php/frontpage/index')?>">
-                      <img class="nav_logo" onmouseover="this.src='../../assets/img/logos/roldana_laranja-01.png'" height=""
-                           onmouseout="this.src='../../assets/img/logos/roldana_branca-01.png'" src="<?php echo base_url('assets/img/logos/roldana_branca-01.png') ?>">
+                  <a class="navbar-brand">
+                      <img class="nav_logo"  height=""
+                            src="<?php echo base_url('assets/img/logos/roldana_branca-01.png') ?>">
                   <a href="http://bestaveiro.web.ua.pt/" class="navbar-brand" target="_blank">
 
               </div>
               <div class="navbar-header clearfix pull-right">
-                  <a href="http://bestaveiro.web.ua.pt/" class="navbar-brand" target="_blank">
+                  <a class="navbar-brand" target="_blank">
                      <img class="nav_logo_right" src="<?php echo base_url('assets/img/logos/best_aveiro_logo.png') ?>">
                   </a>
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">

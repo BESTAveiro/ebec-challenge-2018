@@ -46,7 +46,7 @@
 
 <!--Tab-->
 
-<h1 class="section-heading title_color_diego_orange"><b>EBEC Challenge Aveiro 2018</b></h1>
+<h1 class="section-heading title_color_diego_blue"><b>EBEC Challenge Aveiro 2018</b></h1>
 <br>
 <div class="tabs" id="backgroung_section_blue">
 
@@ -384,7 +384,7 @@
                 <div class="col-md-8">
 
                     <p class="text-muted text-justify e" style="color: #000000;">
-                        Englobada na EBEC Challenge Aveiro 2018 realizar-se-á uma Feira de Empresas no dia <b style="color: orange">15 de março</b> na <b style="color: orange">Universidade de Aveiro</b> destinada a todo o público académico.
+                        Englobada na EBEC Challenge Aveiro 2018 realizar-se-á uma Feira de Empresas no dia <b style="color: #294F66">15 de março</b> na <b style="color: #294F66">Universidade de Aveiro</b> destinada a todo o público académico.
                     </p>
                     <p class="text-muted text-justify e" style="color: #000000;">
                         Será um espaço onde irão marcar presença empresas de diversos setores e permitirá aproximar o tecido
