@@ -119,16 +119,13 @@
                       </li>
                   </ul>
 
-<!--                  <ul class="nav2 navbar-nav pull-right">-->
-<!--                      <li>-->
-<!--                          <a class="page-scroll" href="--><?php //echo base_url('index.php/frontpage/en')?><!--">EN</a>-->
-<!--                      </li>-->
-<!--                      <li>-->
-<!--                          <a class="page-scroll" href="--><?php //echo base_url('index.php/frontpage/index')?><!--">PT</a>-->
-<!--                      </li>-->
-<!--                  </ul>-->
+                  <ul class="nav2 navbar-nav pull-right">
+                      <li>
+                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/en')?>">EN</a>
+                      </li>
+                  </ul>
 
-                  <!-- /.navbar-collapse -->
+<!--                   /.navbar-collapse -->
           </div>
           <!-- /.container-fluid -->
         </nav>

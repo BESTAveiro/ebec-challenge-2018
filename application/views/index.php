@@ -262,7 +262,7 @@
 
                         <p class="text-justify textsize " style="color: #EEA225">
 <!--                            <a href="--><?php //echo base_url('index.php/frontpage/apply')?><!--" style="color: #EEA225">-->
-                                <b>Incrições abrem em!</b>
+<!--                                <b>Inscrições abrem em!</b>-->
 <!--                            </a>-->
                         </p>
                     </div>

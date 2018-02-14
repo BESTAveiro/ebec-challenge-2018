@@ -115,7 +115,7 @@
 
                 </p>
                 <p class="d" style="color:#ffffff">
-                    Ao ser parceira da EBEC Aveiro 2017 numa das modalidades do evento, terá acesso a um contacto direto com os participantes através das provas.
+                    Ao ser parceira da EBEC Aveiro 2018 numa das modalidades do evento, terá acesso a um contacto direto com os participantes através das provas.
                     De acordo com a <b style="color: orange">modalidade em questão</b>, os participantes terão pela frente a resolução de um desafio lançado pela empresa.
                 </p>
 <!--                <div  class="col-md-1"></div>-->

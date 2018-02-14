@@ -14,7 +14,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title text-no-transform">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                                How long does the competition lasts?
+                                How long does the competition last?
                             </a>
                         </h4>
                     </div>
@@ -23,6 +23,20 @@
                             You have 24 hours to build your prototype or get a solution for your
                             <i>Case Study</i>. The presentation of your project will be on the next wednesday
                             (march 15).
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title text-no-transform">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+                                How many members there are per team?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse2" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Each team must have 4 members.
                         </div>
                     </div>
                 </div>
