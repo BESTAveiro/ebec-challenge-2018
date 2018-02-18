@@ -1892,15 +1892,18 @@ body h1 {
 }
 
 .img_schedule {
-  position: relative;
-  display: table;
-  /*margin-left: auto;*/
-  /*margin-right: auto;*/
-  /*margin-bottom: 0px;*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   top:0px;
-  left:200px;
-  width: 90%;
-  /*height: auto;*/
+  width: 55%;
+}
+.img_schedule2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  top:0px;
+  width: 55%;
 }
 .img-objeto2{
   position: absolute;
@@ -1911,7 +1914,11 @@ body h1 {
 .box-diego{
   position: relative;
 }
-
+.img-wrapper{
+  position: relative;
+   /* change the default display type to inline-block */
+  display: block;
+}
 /* Contacts */
 .team-member2 {
   text-align: center;

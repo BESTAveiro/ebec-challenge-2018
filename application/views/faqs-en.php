@@ -1,18 +1,20 @@
-<section class="bg-white">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="section-heading">FAQ</h2>
-            <h3 class="section-subheading text-muted" style="margin-bottom:-30px">Frequently Asked Questions</h3>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading title_color_diego_blue">FAQ</h2>
+                <h3 class="section-subheading text-muted " style="margin-bottom:-30px">Frequently Asked Questions</h3>
+            </div>
         </div>
     </div>
 </section>
-<section class="bg-white">
-    <div class="row">
-        <div class="container">
+<section>
+    <div class="container">
+        <div class="row">
             <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
                                 How long does the competition last?
                             </a>
@@ -28,7 +30,7 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
                                 How many members there are per team?
                             </a>
@@ -42,13 +44,13 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
                                 When will we know what challenge we will have?
                             </a>
                         </h4>
                     </div>
-                    <div id="collapse2" class="panel-collapse collapse">
+                    <div id="collapse3" class="panel-collapse collapse">
                         <div class="panel-body">
                             The challenge will be presented at the opening session, however, the script will only be distributed when the competition starts.
                         </div>
@@ -56,13 +58,13 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
                                 Can we leave the University during the challenge?
                             </a>
                         </h4>
                     </div>
-                    <div id="collapse3" class="panel-collapse collapse">
+                    <div id="collapse4" class="panel-collapse collapse">
                         <div class="panel-body">
                             Only external movements from the test location will be allowed exclusively with the approval of the event coordinator.
                         </div>
@@ -70,13 +72,13 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
                                 What penalties exist during the test for participants?
                             </a>
                         </h4>
                     </div>
-                    <div id="collapse4" class="panel-collapse collapse">
+                    <div id="collapse5" class="panel-collapse collapse">
                         <div class="panel-body">
                             In case of infringement of the rules established for the competition, the team may be penalized in the score of their challenge or disqualified.
                             The team may also lose their caution.
@@ -85,13 +87,13 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse6">
                                 Do we have to pay to participate in the competition?
                             </a>
                         </h4>
                     </div>
-                    <div id="collapse5" class="panel-collapse collapse">
+                    <div id="collapse6" class="panel-collapse collapse">
                         <div class="panel-body">
                             No, each team will only have to leave a caution. The value will be returned to you at the end of the competition after the closing session. This caution is intended to prevent any damage caused.
                         </div>
@@ -99,13 +101,13 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse7">
                                 Are we provide with food during the competition's weekend?
                             </a>
                         </h4>
                     </div>
-                    <div id="collapse6" class="panel-collapse collapse">
+                    <div id="collapse7" class="panel-collapse collapse">
                         <div class="panel-body">
                             Yes, through the weekend you will be provide with all meals while you are taking part in the competition. You will also have a continuous coffee break available through the weekend.
                         </div>
@@ -113,13 +115,13 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse7">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse8">
                                 Can we rest during the challenge?
                             </a>
                         </h4>
                     </div>
-                    <div id="collapse7" class="panel-collapse collapse">
+                    <div id="collapse8" class="panel-collapse collapse">
                         <div class="panel-body">
                             Yes, there will be a "rest room" for participants to rest and even sleep if they wish. There will also be a recreation room (room that will count on some leisure activities), to use during the intervals of the challenge, so that the participants relax a little.
                         </div>
@@ -127,7 +129,7 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse9">
                                 Who will evaluate the challenges?
                             </a>
@@ -141,7 +143,7 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse10">
                                 How will the projects be evaluated?
                             </a>
@@ -155,7 +157,7 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11">
                                 To who should I ask questions during the challenge?
                             </a>
@@ -169,7 +171,7 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title text-no-transform">
+                        <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse12">
                                 I have an exam on same day as the challenge. What now?
                             </a>
@@ -209,6 +211,6 @@
         -ms-transform: rotate(90deg);
         -o-transform: rotate(90deg);
         transform: rotate(90deg);
-        color: orange;
+        color: #454444;
     }
 </style>
