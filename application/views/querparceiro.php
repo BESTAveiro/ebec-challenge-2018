@@ -38,9 +38,15 @@
             </div>
             <div class="col-md-12">
                 <p>
-                    Ao tornar-se nosso parceiro, a sua empresa estará integrada na organização da EBEC Challenge Aveiro, contando com o apoio de uma equipa dinâmica e empenhada em satisfazer as necessidades de desenvolvimento extracurricular dos estudantes, bem como os interesses da empresa em questão.
+                    Ao tornar-se nosso parceiro, a sua empresa estará integrada na organização da EBEC Challenge Aveiro,
+                    contando com o apoio de uma equipa dinâmica e empenhada em satisfazer as necessidades de
+                    desenvolvimento extracurricular dos estudantes, <b>bem como os interesses da sua empresa</b>.
                 </p>
-                <p class="">Ao ser parceiro da EBEC Challenge Aveiro 2018 será uma parte essencial do evento e verá a sua empresa ser promovida nas nossas redes sociais e no website do evento, com um maior alcance e proximidade à Universidade de Aveiro, conhecida pelo seu dinamismo, inovação e empreendedorismo.</p>
+                <p class="">
+                    Ao ser parceiro da EBEC Challenge Aveiro 2018 será uma parte essencial do evento e verá a
+                    sua empresa ser promovida nas nossas <b>redes sociais</b> e no <b>website do evento</b>, com um maior alcance e
+                    proximidade à <b>Universidade de Aveiro</b>, conhecida pelo seu dinamismo, inovação e empreendedorismo.
+                </p>
 
              </div>
             <div class="col-lg-12 text-center">
