@@ -77,11 +77,12 @@
                           <a class="page-scroll" href="<?php echo base_url('#EBEC-Challenge')?>">EBEC Challenge Aveiro</a>
                       </li>
                       <li>
-                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/faqs')?>">FAQs</a>
+                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/apply')?>">Inscrição</a>
                       </li>
 <!--                      <li>-->
-<!--                          <a class="page-scroll" href="--><?php //echo base_url('index.php/frontpage/apply')?><!--">Inscrição</a>-->
+<!--                          <a class="page-scroll" href="--><?php //echo base_url('index.php/frontpage/faqs')?><!--">FAQs</a>-->
 <!--                      </li>-->
+
 <!--                      <li>-->
 <!--                          <a class="page-scroll" href="--><?php //echo base_url('index.php/frontpage/news')?><!--">Notícias</a>-->
 <!--                      </li>-->

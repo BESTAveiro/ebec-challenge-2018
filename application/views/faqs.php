@@ -115,7 +115,7 @@
                     </div>
                     <div id="collapse7" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Sim, ao longo do fim-de-semana terás direito a todas as refeições enquanto estiveres a
+                            Sim, ao longo do fim de semana terás direito a todas as refeições enquanto estiveres a
                             participar na prova. Terás também disponível um coffee break contínuo durante todo o
                             fim-de-semana.
                         </div>
@@ -179,8 +179,8 @@
                     </div>
                     <div id="collapse11" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Só podes tirar dúvidas com pessoas designadas para o efeito: o responsável pela prova e
-                            pelo coordenador do evento..
+                            Só podes tirar dúvidas com pessoas designadas para o efeito: o responsável pela prova,
+                            pelo coordenador do evento e pela equipa de tópico.
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                     </div>
                     <div id="collapse12" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Deves contactar com a organização para adequar da melhor forma possível a calendarização da
+                            Deves contactar a organização para adequar da melhor forma possível a calendarização da
                             tua prova no dia de avaliação.
                         </div>
                     </div>

@@ -79,7 +79,7 @@
                         <h4>Catarina Lopes</h4>
                         <p class="text-muted">Responsável de Relações Empresariais</p>
                         <p>
-                            <i class="fa fa-envelope"></i><a href="mailto:catarinavslopes5@BEST.eu.org"> catarinavslopes5@BEST.eu.org </a><br/>
+                            <i class="fa fa-envelope"></i><a href="mailto:catarina.lopes@BEST.eu.org"> catarina.lopes@BEST.eu.org </a><br/>
                             <i class="fa fa-phone"></i> <b>(+351) 925 731 134</b>
                         </p>
                     </div>

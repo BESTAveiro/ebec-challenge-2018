@@ -38,16 +38,13 @@ $(document).ready(function(){
             </div>
             <div class="col-md-12">
                 <p>
-                    By becoming our partner, your company will be integrated in the EBEC Challenge Aveiro organizatio,
-                    counting with the support of a dynamic team commited to satisfy the extracurricular development of
+                    By becoming our partner, your company will be integrated in the EBEC Challenge Aveiro organization,
+                    counting with the support of a dynamic team, commited to satisfy the extracurricular development of
                     the students, as well as the interests of the company.
-                    By being a partner of EBEC Challenge Aveiro 2018, your company will be an essential part of the
-                    event. The company will be promoted in our social media and on the website of the event, with a
-                    greater reach and proximity to the University of Aveiro students and management.
                 </p>
                 <p class="">
-                    Being a partner of EBEC Challenge Aveiro 2018 means your company will be an essential part of the
-                    event. The company will be promoted in our social media and on the website of the event, with a
+                    By being a partner of EBEC Challenge Aveiro 2018, your company will be an essential part of the
+                    event. Your company will be promoted in our <b>social media</b> and on the <b>website of the event</b>, with a
                     greater reach and proximity to the University of Aveiro students and management.</p>
 
              </div>
@@ -124,8 +121,8 @@ $(document).ready(function(){
                 </p>
                 <p class="d" style="color:#ffffff">
                     By sponsoring one of EBEC Aveiro 2018 modalities, you will have free contact with the participants
-                    throughout the challenges. Acordingly <b style="color: orange">modality</b>, the participants will have a challenge ahead
-                    set by your company.
+                    throughout the challenges. Your company will choose a <b style="color: orange">modality</b>, so that you can set
+                    a challenge for the participants to solve, accordingly to your company interests.
                 </p>
 <!--                <div  class="col-md-1"></div>-->
 <!--                <div  class="col-md-1">-->
@@ -149,7 +146,7 @@ $(document).ready(function(){
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center text-white">
-                <h2 class="section-heading title_color_diego_blue">Be in our job fair</h2>
+                <h2 class="section-heading title_color_diego_blue">Be in our company fair</h2>
                 <br/>
             </div>
 
@@ -162,7 +159,7 @@ $(document).ready(function(){
                 </p>
                 <br><br><br>
                 <p class="">
-                    Accessible to the entire academic community, the job aims to be a tool for exhibiting and sharing
+                    Accessible to the entire academic community, the <b>company fair</b> aims to be a tool for exhibiting and sharing
                     the company and its products and services, as well as an opportunity to recruit all interested
                     students from the University of Aveiro.
 

@@ -32,7 +32,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                                How many members there are per team?
+                                How many members are there per team?
                             </a>
                         </h4>
                     </div>
@@ -159,7 +159,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11">
-                                To who should I ask questions during the challenge?
+                                Whom should I ask questions during the challenge?
                             </a>
                         </h4>
                     </div>
@@ -173,7 +173,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title text-no-transform title_color_diego_blue">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse12">
-                                I have an exam on same day as the challenge. What now?
+                                I have an exam on the same day as the challenge. What now?
                             </a>
                         </h4>
                     </div>

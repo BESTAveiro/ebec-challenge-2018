@@ -239,7 +239,7 @@
                     <div class="col-md-7">
                         <p class="text-justify text-white">
                             O BEST Aveiro  tem o prazer de apresentar a EBEC Challenge Aveiro 2018, uma das 80 fases
-                            locais do projeto EBEC Challenge, com a duração de 24 horas.
+                            locais do projeto EBEC, com a duração de 24 horas.
                         </p>
                         <p class="text-muted text-justify text-white">
                             A ocorrer em março de 2018, o evento contará com 104 vagas para as quais te podes inscrever
@@ -254,16 +254,16 @@
                             criatividade, desafio, energia, flexibilidade e espírito de equipa são postos em prática.
                         </p>
                         <p class="text-muted text-justify text-white">
-                            No sentido de promover uma melhor relação entre estudantes e empresas, a organização da EBEC
+                            No sentido de promover uma melhor relação entre estudantes e empresas, a organização da EBEC Challenge
                             Aveiro promoverá, à parte da competição, uma feira de empresas seguida de uma cocktail
                             network, no dia 15 de março.
 
                         </p>
-
+<br>
                         <p class="text-justify textsize " style="color: #EEA225">
-<!--                            <a href="--><?php //echo base_url('index.php/frontpage/apply')?><!--" style="color: #EEA225">-->
-<!--                                <b>Inscrições abrem em!</b>-->
-<!--                            </a>-->
+                            <a href="<?php echo base_url('index.php/frontpage/apply')?>" style="color: #EEA225">
+                                <b>Inscreve-te já!</b>
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -351,7 +351,7 @@
                             Portuguesas.
                         </p>
                         <p class="text-muted text-justify text-white">
-                            Para mais informações visite o <a href="http://ebecportugal.pt/"style="color: orange "target="_blank">site</a>.
+                            Para mais informações visita o <a href="http://ebecportugal.pt/"style="color: orange "target="_blank">site</a>.
                         </p>
 
 
@@ -384,7 +384,7 @@
                     </p>
                     <p class="text-muted text-justify e" style="color: #000000;">
                         Será um espaço onde irão marcar presença empresas de diversos setores e permitirá aproximar o tecido
-                        empresarial da comunidade académica. Os estudantes terão a oportunidade de conhecer a atividade das
+                        empresarial à comunidade académica. Os estudantes terão a oportunidade de conhecer a atividade das
                         entidades presentes, interagir com elas e haverá ainda um espaço dedicado a entrevistas por parte
                         das empresas presentes.
                     </p>
@@ -408,7 +408,7 @@
             <div class="col-md-8">
                 <p class="text-muted text-justify text-white">
                     O BEST Aveiro volta a organizar mais uma edição dos <b style="color: orange">BEST Training Days</b>, desta vez inserido
-                    nas atividades da EBEC Challenge Aveiro terás a oportunidade de desenvolver as tuas capacidades numa
+                    nas atividades da EBEC Challenge Aveiro, onde terás a oportunidade de desenvolver as tuas capacidades numa
                     formação.
                 <p class="text-muted text-justify text-white">
                     A formação decorrerá durante a tarde do dia <b style="color: orange">16 de março</b> e é restrita aos participantes.
@@ -644,7 +644,7 @@
                     <div class="team-member2">
                         <img src="<?php echo base_url('assets/img/team/Rafa.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                         <h4 style="color: orange">Rafaela Reis</h4>
-                        <p class="text-muted "style="color: white">Responsável de Conteúdos Competitivos</p>
+                        <p class="text-muted "style="color: white">Responsável de Tópico</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -658,11 +658,6 @@
             </div>
 
             <div class="row">
-                <div class="col-sm-2">
-                    <div class="team-member2">
-
-                    </div>
-                </div>
                 <div class="col-sm-4">
                     <div class="team-member2">
                         <img src="<?php echo base_url('assets/img/team/Vasconcelos.jpg')?>" class="img-responsive img-circle img-contact" alt="">
@@ -677,18 +672,31 @@
                         <p class="text-muted "style="color: white">Responsável de Tecnologias de Informação</p>
                     </div>
                 </div>
-                <!--        <div class="col-sm-4">-->
-                <!--            <div class="team-member2">-->
-                <!--                <img src="--><?php //echo base_url('assets/img/team/francisca.jpg')?><!--" class="img-responsive img-circle img-contact" alt="">-->
-                <!--                <h4 style="color: orange">Francisca Bragança</h4>-->
-                <!--                <p class="text-muted" style="color: white">Responsável de Participantes</p>-->
-                <!--                <p><i class="fa fa-envelope" style="color: orange"></i><a href="mailto:franciscabraganca9@gmail.com"> franciscabraganca9@gmail.com</a></p>-->
-                <!--            </div>-->
-                <!---->
+                <div class="col-sm-4">
+                    <div class="team-member2">
+                        <img src="<?php echo base_url('assets/img/team/David.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                        <h4 style="color: orange">Maria Inês David</h4>
+                        <p class="text-muted" style="color: white">Responsável de Participantes</p>
+                    </div>
+                </div>
             </div>
+                <div class="row">
+                    <div class="col-sm-4">
 
+                    </div>
 
+                    <div class="col-sm-4">
+                        <div class="team-member2">
+                            <img src="<?php echo base_url('assets/img/team/Rita.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                            <h4 style="color: orange">Ana Rita Oliveira</h4>
+                            <p class="text-muted" style="color: white">Responsável de Logística</p>
+                        </div>
+                    </div>
+                </div>
         </div>
+
+
+            </div>
         </div>
         </div>
 </section>

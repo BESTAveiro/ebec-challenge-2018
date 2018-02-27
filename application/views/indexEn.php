@@ -273,9 +273,13 @@
 
         <!--Programa-->
         <section id="backgroung_section_blue" >
-            <div class="row" style="height: 420px;">
-<!--                    <h2 class="section-heading">Schedule</h2>-->
-                    <img class="img_schedule2 img-responsive img-center" src="<?php echo base_url('assets/img/ebc_material/Schedule-en.png')?>">
+            <!--            <div class="container" style="height: 400px">-->
+            <div class="row" style="height: 300px;">
+                <div class="col-md-8">
+                    <h2 class="section-heading">Schedule</h2>
+                    <img class="img_schedule" src="<?php echo base_url('assets/img/ebc_material/Schedule-en.png')?>">
+
+                </div>
             </div>
         </section>
 
