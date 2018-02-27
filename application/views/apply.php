@@ -16,7 +16,7 @@
                         <p class="text-muted-diego text-justify">
 
                             <span class="big-number-diego">1.</span> Regista-te no site do BEST.
-                            Podes fazê-lo <a target="_blank" href="https://best.eu.org/account/registration.jsp">aqui</a>.
+                            Podes fazê-lo <a target="_blank" href="https://www.best.eu.org/account/registration.jsp">aqui</a>.
                         </p>
                     </li>
                     <li class="text-muted-diego">

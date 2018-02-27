@@ -1451,6 +1451,15 @@ margin: 0px 10px 10px 10px;
   text-decoration: none;
   display: inline-block;
   font-size: 14px;}
+.button2-dinis{
+  background-color: #EEA225; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;}
 .hvr-sweep-to-right {
   display: inline-block;
   vertical-align: middle;
@@ -1484,6 +1493,7 @@ margin: 0px 10px 10px 10px;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
+
 .img_martelo{
   position: absolute;
   /*top: 80px;*/

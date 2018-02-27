@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="row">
-            <h1 class="date">March 15th, 16th, 17th, 18th e 21st</h1>
+            <h1 class="date">March 15th, 16th, 17th, 18th and 21st</h1>
         </div>
 
     </div>
@@ -243,28 +243,71 @@
                         stages of the EBEC Challenge project, with the duration of 24 hours.
                     </p>
                     <p class="text-muted text-justify text-white">
-                        To be held in March 2018, the event will have 104 unnocupied positions for which you can apply -
+                        To be held in March 2018, the event will have 104 positions for which you can apply -
                         52 for Case Study and 52 for Team Design. If you do not know what these variants are, go to the
-                        Modalities
                         <i>Modalities</i>  tab for a more detailed description (you can also find a list of <i>FAQs</i>
                         about the event <a href="<?php echo base_url('index.php/frontpage/faqs')?>" style="color: orange"> here</a>).
                     </p>
                     <p class="text-justify text-white">
-                        Considered one of the most outstanding events of BEST Aveiro, conceptualized aiming at the
+                        Considered one of the most outstanding events of BEST Aveiro, conceptualized with an eye at the
                         students of the University of Aveiro, EBEC Challenge Aveiro aims to be a moment where creativity,
                         challenge, energy, flexibility and team spirit are put into practice.
                     </p>
                     <p class="text-muted text-justify text-white">
-                        In order to promote a better relationship between students and companies, the EBEC organization
-                        Aveiro will promote, apart from the competition, a business fair followed by a cocktail network,
+                        In order to promote a better relationship between students and companies, the EBEC Aveiro organization
+                        will promote, apart from the competition, a company fair followed by a cocktail network,
                         on March 15th.
                     </p>
 
-                    <p class="text-justify textsize " style="color: #EEA225">
-                        <!--                            <a href="--><?php //echo base_url('index.php/frontpage/apply')?><!--" style="color: #EEA225">-->
-<!--                        <b>Incrições abrem em!</b>-->
-                        <!--                            </a>-->
-                    </p>
+                    <div class="col-lg-12 text-center">
+                        <br>
+                        <a class="hvr-sweep-to-right button2-dinis" href="<?php echo base_url('index.php/frontpage/applyen')?>" > Apply now!  <span class="fa fa-chevron-right"></span></a>
+                        <!--                <button id="myBtn">Open Modal</button>-->
+
+                        <!-- The Modal -->
+                        <div id="myModaldiego" class="modal2">
+
+                            <!-- Modal content -->
+                            <div class="modal-content2">
+                                <div class="modal-header">
+                                    <span class="close">&times;</span>
+                                    <h2 class="title_color_diego_blue">Formulário</h2>
+                                </div>
+                                <div class="modal-body2">
+                                    <div class="typeform-widget" data-url="https://diegocaldeira.typeform.com/to/ItnXRb" style="width: 100%; height: 500px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;" > powered by <a href="https://www.typeform.com//?utm_campaign=ItnXRb&amp;utm_source=typeform.com-11467697-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <script>
+                            // Get the modal
+                            var modal = document.getElementById('myModaldiego');
+
+                            // Get the button that opens the modal
+                            var btn = document.getElementById("myBtn");
+
+                            // Get the <span> element that closes the modal
+                            var span = document.getElementsByClassName("close")[0];
+
+                            // When the user clicks the button, open the modal
+                            btn.onclick = function() {
+                                modal.style.display = "block";
+                            }
+
+                            // When the user clicks on <span> (x), close the modal
+                            span.onclick = function() {
+                                modal.style.display = "none";
+                            }
+
+                            // When the user clicks anywhere outside of the modal, close it
+                            window.onclick = function(event) {
+                                if (event.target == modal) {
+                                    modal.style.display = "none";
+                                }
+                            }
+                        </script>
+                    </div>
                 </div>
             </div>
             <!--            </div>-->
@@ -274,12 +317,8 @@
         <!--Programa-->
         <section id="backgroung_section_blue" >
             <!--            <div class="container" style="height: 400px">-->
-            <div class="row" style="height: 300px;">
-                <div class="col-md-8">
-                    <h2 class="section-heading">Schedule</h2>
-                    <img class="img_schedule" src="<?php echo base_url('assets/img/ebc_material/Schedule-en.png')?>">
-
-                </div>
+            <div class="row" style="height: 400px;">
+                    <img class="img_schedule" src="<?php echo base_url('assets/img/schedule/Schedule-en.png')?>">
             </div>
         </section>
 
@@ -372,7 +411,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center text-white">
-                <h2 class="section-heading title_color_diego_blue">Job Fair</h2>
+                <h2 class="section-heading title_color_diego_blue">Company Fair</h2>
                 <br/>
             </div>
             <div class="row">
@@ -382,7 +421,7 @@
                 <div class="col-md-8">
 
                     <p class="text-muted text-justify e" style="color: #000000;">
-                        Encompassed in EBEC Challenge Aveiro 2018 will be held a Business Fair, on March 15, at the
+                        Encompassed in EBEC Challenge Aveiro 2018 will be held a Company Fair, on March 15, at the
                         University of Aveiro, for all academic public.
                     </p>
                     <p class="text-muted text-justify e" style="color: #000000;">
@@ -464,22 +503,23 @@
                                         <img class="img-circle" src="<?php echo base_url('assets/img/testimonials/1.jpg')?>" style="width: 100px;height:100px;">
                                     </div>
                                     <div class="col-sm-8">
-                                        <p class="text-justify">Após ter sido participante da EBEC Aveiro 2016, surgiu a
-                                            oportunidade de ser Coordenador da EBEC Aveiro 2017. Desde então, passaram-se 6
-                                            meses em que todos os dias eram diferentes. Era necessário organizar-me diariamente,
-                                            para conseguir conciliar os estudos e o trabalho que tinha para a EBEC Aveiro,
-                                            sem nunca perder a motivação para nenhum destes aspetos.<br>
-                                            Nesta edição, contámos com a presença de um Main Sponsor do evento - a Mahle;
-                                            reformulamos a modalidade de Case Study - fizemos 2 provas em 24h; mantivemos a
-                                            existência de um workshop e de uma feira de empresas, desta vez com um espaço de
-                                            Cocktail Network. A experiência tornou-se assim enriquecedora - criar e coordenar
-                                            uma equipa, manter todos motivados, encontrar e resolver problemas que apareciam
-                                            todas as semanas - pode parecer duro (e é) mas, na verdade, hoje sou facilmente
-                                            capaz de dizer que valeu a pena por todas as aprendizagens que eu e a minha
-                                            equipa trouxemos para nós, como estudantes, como futuros trabalhadores e também
-                                            como pessoas. <br>
-                                            Por último, gostaria de deixar um apelo a todos: explorem áreas de conhecimento que
-                                            não conhecem, saiam da vossa zona de conforto e agarrem as oportunidades que aparecem."
+                                        <p class="text-justify">After being a participant of EBEC Aveiro 2016, the
+                                            opportunity arose to be Coordinator of EBEC Aveiro 2017. Since then, 6 months
+                                            have passed where they were always different. It was necessary to organise
+                                            myself daily, in order to be able to reconcile the studies and the work that
+                                            I had for EBEC Aveiro, without losing the motivation for none of these aspects.
+                                            <br>
+                                            In 2017, we counted with the presence of a Main Sponsor of the event - Mahle;
+                                            we reformulated the modality of Case Study - we did 2 tests/problems in 24h;
+                                            we kept the existence of a workshop and a business fair, this time with a
+                                            Cocktail Network space. The experience has become so enriching - creating
+                                            and coordinating a team, keeping everyone motivated, finding and solving
+                                            problems that come up every week - may seem hard (and it is) but in fact
+                                            today I am easily able to say that it was worth it for all the learning that
+                                            I and my team have brought to us, as students, as future workers.
+                                            <br>
+                                            Finally, I would like to appeal to everyone: explore areas of knowledge you
+                                            do not know, get out of your comfort zone and grab the opportunities that come up.
                                         </p>
                                         <small class="text-muted">
                                             Pedro Reis<br/>

@@ -1,6 +1,7 @@
 <section class="bg-white">
     <div class="container">
         <div class="row">
+            <br><br>
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Application</h2>
                 <br/>
@@ -16,13 +17,13 @@
                         <p class="text-muted text-justify">
 
                             <span class="big-number">1.</span> Sign up on BEST Website.
-                            You can do it <a data-toggle="tooltip" title="<img width='600px'  src='<?php echo base_url('assets/img/inscricao1.PNG')?>'/>" target="_blank" href="https://best.eu.org/index.jsp">here</a>.
+                            You can do it <a data-toggle="tooltip" title="<img width='600px'" target="_blank" href="https://www.best.eu.org/account/registration.jsp">here</a>.
                         </p>
                     </li>
                     <li class="text-muted">
                         <p class="text-muted text-justify">
                             <span class="big-number">2.</span> Do a pre-registration on EBEC Aveiro 2017.
-                            You can do it <a data-toggle="tooltip" title="<img width='600px'  src='<?php echo base_url('assets/img/Capturar.PNG')?>'/>" target="_blank" href="https://best.eu.org/event/localDetails.jsp?event=ea7nupg">here</a>.
+                            You can do it <a data-toggle="tooltip" title="<img width='600px'" target="_blank" href="https://www.best.eu.org/event/localDetails.jsp?event=m624hj8">here</a>.
                         </p>
                     </li>
                     <li class="text-muted">

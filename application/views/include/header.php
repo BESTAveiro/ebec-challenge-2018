@@ -79,9 +79,9 @@
                       <li>
                           <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/apply')?>">Inscrição</a>
                       </li>
-<!--                      <li>-->
-<!--                          <a class="page-scroll" href="--><?php //echo base_url('index.php/frontpage/faqs')?><!--">FAQs</a>-->
-<!--                      </li>-->
+                      <li>
+                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/faqs')?>">FAQs</a>
+                      </li>
 
 <!--                      <li>-->
 <!--                          <a class="page-scroll" href="--><?php //echo base_url('index.php/frontpage/news')?><!--">Notícias</a>-->
