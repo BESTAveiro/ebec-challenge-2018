@@ -633,38 +633,38 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="team-member2">
                         <img src="<?php echo base_url('assets/img/team/Valente.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                         <h4 style="color: orange">João Valente</h4>
                         <p class="text-muted" style="color: white">Coordenador da EBEC Challenge Aveiro</p>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="team-member2">
                         <img src="<?php echo base_url('assets/img/team/Rafa.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                         <h4 style="color: orange">Rafaela Reis</h4>
                         <p class="text-muted "style="color: white">Responsável de Tópico</p>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="team-member2">
                         <img src="<?php echo base_url('assets/img/team/Catarina.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                         <h4 style="color: orange">Catarina Lopes</h4>
                         <p class="text-muted"style="color: white">Responsável de Relações Empresariais</p>
                     </div>
                 </div>
-
-            </div>
-
-            <div class="row">
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="team-member2">
                         <img src="<?php echo base_url('assets/img/team/Vasconcelos.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                         <h4 style="color: orange">Ana Vasconcelos</h4>
                         <p class="text-muted" style="color: white">Responsável de Marketing</p>
                     </div>
                 </div>
+            </div>
+
+            <div class="row">
+
                 <div class="col-sm-4">
                     <div class="team-member2">
                         <img src="<?php echo base_url('assets/img/team/Dinis.jpg')?>" class="img-responsive img-circle img-contact" alt="">
@@ -679,25 +679,19 @@
                         <p class="text-muted" style="color: white">Responsável de Participantes</p>
                     </div>
                 </div>
-            </div>
-                <div class="row">
-                    <div class="col-sm-4">
+                <div class="col-sm-4">
 
-                    </div>
+                </div>
 
-                    <div class="col-sm-4">
-                        <div class="team-member2">
-                            <img src="<?php echo base_url('assets/img/team/Rita.jpg')?>" class="img-responsive img-circle img-contact" alt="">
-                            <h4 style="color: orange">Ana Rita Oliveira</h4>
-                            <p class="text-muted" style="color: white">Responsável de Logística</p>
-                        </div>
+                <div class="col-sm-4">
+                    <div class="team-member2">
+                        <img src="<?php echo base_url('assets/img/team/Rita.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                        <h4 style="color: orange">Ana Rita Oliveira</h4>
+                        <p class="text-muted" style="color: white">Responsável de Logística</p>
                     </div>
                 </div>
-        </div>
-
-
             </div>
-        </div>
+
         </div>
 </section>
 <!--<a href="" class="scrollToTop"></a>-->

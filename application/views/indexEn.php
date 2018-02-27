@@ -645,62 +645,63 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-3">
                 <div class="team-member2">
                     <img src="<?php echo base_url('assets/img/team/Valente.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">João Valente</h4>
                     <p class="text-muted" style="color: white">Coordinator of EBEC Challenge Aveiro</p>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
                 <div class="team-member2">
                     <img src="<?php echo base_url('assets/img/team/Rafa.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Rafaela Reis</h4>
-                    <p class="text-muted "style="color: white">Responsible for Competitive Content</p>
+                    <p class="text-muted "style="color: white">Topic Responsible</p>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
                 <div class="team-member2">
                     <img src="<?php echo base_url('assets/img/team/Catarina.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Catarina Lopes</h4>
-                    <p class="text-muted"style="color: white">Responsible for Business Relations</p>
+                    <p class="text-muted"style="color: white">Fundraising Responsible</p>
                 </div>
             </div>
-
-        </div>
-
-        <div class="row">
-            <div class="col-sm-2">
-                <div class="team-member2">
-
-                </div>
-            </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
                 <div class="team-member2">
                     <img src="<?php echo base_url('assets/img/team/Vasconcelos.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Ana Vasconcelos</h4>
-                    <p class="text-muted" style="color: white">Responsible for Marketing</p>
+                    <p class="text-muted" style="color: white">Marketing Responsible</p>
                 </div>
             </div>
+        </div>
+
+        <div class="row">
+
             <div class="col-sm-4">
                 <div class="team-member2">
                     <img src="<?php echo base_url('assets/img/team/Dinis.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4 style="color: orange">Dinis Bruno</h4>
-                    <p class="text-muted "style="color: white">Responsible for Information Technology</p>
+                    <p class="text-muted "style="color: white">Information and Technology Responsible</p>
                 </div>
             </div>
-            <!--        <div class="col-sm-4">-->
-            <!--            <div class="team-member2">-->
-            <!--                <img src="--><?php //echo base_url('assets/img/team/francisca.jpg')?><!--" class="img-responsive img-circle img-contact" alt="">-->
-            <!--                <h4 style="color: orange">Francisca Bragança</h4>-->
-            <!--                <p class="text-muted" style="color: white">Responsável de Participantes</p>-->
-            <!--                <p><i class="fa fa-envelope" style="color: orange"></i><a href="mailto:franciscabraganca9@gmail.com"> franciscabraganca9@gmail.com</a></p>-->
-            <!--            </div>-->
-            <!---->
+            <div class="col-sm-4">
+                <div class="team-member2">
+                    <img src="<?php echo base_url('assets/img/team/David.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <h4 style="color: orange">Maria Inês David</h4>
+                    <p class="text-muted" style="color: white">Participants Responsible</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+
+            </div>
+
+            <div class="col-sm-4">
+                <div class="team-member2">
+                    <img src="<?php echo base_url('assets/img/team/Rita.jpg')?>" class="img-responsive img-circle img-contact" alt="">
+                    <h4 style="color: orange">Ana Rita Oliveira</h4>
+                    <p class="text-muted" style="color: white">Logistic Responsible</p>
+                </div>
+            </div>
         </div>
-
-
-    </div>
-    </div>
     </div>
 </section>

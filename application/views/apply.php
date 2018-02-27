@@ -1,4 +1,4 @@
-﻿<section id="backgroung_section_orange">
+﻿<section>
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -16,13 +16,13 @@
                         <p class="text-muted-diego text-justify">
 
                             <span class="big-number-diego">1.</span> Regista-te no site do BEST.
-                            Podes fazê-lo <a data-toggle="tooltip" title="<img width='600px'  src='<?php echo base_url('assets/img/accountbest.png')?>'/>" target="_blank" href="https://best.eu.org/account/registration.jsp">aqui</a>.
+                            Podes fazê-lo <a target="_blank" href="https://best.eu.org/account/registration.jsp">aqui</a>.
                         </p>
                     </li>
                     <li class="text-muted-diego">
                         <p class="text-muted-diego text-justify">
                             <span class="big-number-diego">2.</span> Efetua a pré-inscrição na EBEC Challenge Aveiro 2018.
-                            Podes fazê-lo <a data-toggle="tooltip" title="<img width='600px'  src='<?php echo base_url('assets/img/accountebec.png')?>'/>" target="_blank" href="https://www.best.eu.org/event/localDetails.jsp?event=m624hj8">aqui</a>.
+                            Podes fazê-lo <a target="_blank" href="https://www.best.eu.org/event/localDetails.jsp?event=m624hj8">aqui</a>.
                         </p>
                         </p>
                     </li>
