@@ -8,44 +8,53 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-12">
-                <h4 class="text-muted text-justify text-no-transform">
+            <div class="col-md-9">
+                <h4 class="text-muted-diego text-justify text-no-transform">
                     <b>To apply you only need to follow this steps:</b>
                 </h4>
                 <ul class="fa-ul">
-                    <li class="text-muted">
-                        <p class="text-muted text-justify">
+                    <li class="text-muted-diego">
+                        <p class="text-muted-diego text-justify">
 
-                            <span class="big-number">1.</span> Sign up on BEST Website.
-                            You can do it <a data-toggle="tooltip" title="<img width='600px'" target="_blank" href="https://www.best.eu.org/account/registration.jsp">here</a>.
+                            <span class="big-number-diego">1.</span> Sign up on BEST Website. You can do it
+                            <a target="_blank" href="https://www.best.eu.org/account/registration.jsp">here</a>.
                         </p>
                     </li>
-                    <li class="text-muted">
-                        <p class="text-muted text-justify">
-                            <span class="big-number">2.</span> Do a pre-registration on EBEC Aveiro 2017.
-                            You can do it <a data-toggle="tooltip" title="<img width='600px'" target="_blank" href="https://www.best.eu.org/event/localDetails.jsp?event=m624hj8">here</a>.
+                    <li class="text-muted-diego">
+                        <p class="text-muted-diego text-justify">
+                            <span class="big-number-diego">2.</span> Do a pre-registration on EBEC Aveiro 2018. You can do it
+                            <a target="_blank" href="https://www.best.eu.org/event/localDetails.jsp?event=m624hj8">here</a>.
+                        </p>
                         </p>
                     </li>
-                    <li class="text-muted">
-                        <p class="text-muted text-justify">
-                            <span class="big-number">3.</span> Write the name of your team. All the menbers of the team have to write the same name.
+                    <li class="text-muted-diego">
+                        <p class="text-muted-diego text-justify">
+                            <span class="big-number-diego">3.</span> Write the name of your team. All the members of the team have to write the same name.
                         </p>
                     </li>
-                    <li class="text-muted">
-                        <p class="text-muted text-justify">
-                            <span class="big-number">4.</span> Fill all the fields, with exeption of "Motivation Letter" because it's optional. Click on "Apply"
-                            to finish this part.
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <img class="img_roldana" src="<?php echo base_url('assets/img/ebc_material/roldana.png')?>">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="fa-ul">
+                    <li class="text-muted-diego">
+                        <p class="text-muted-diego text-justify">
+                            <span class="big-number-diego">4.</span> Fill all the fields, with exception of "Motivation Letter", which it's optional. Click on "Apply" to finish this part.
                         </p>
                     </li>
-                    <li class="text-muted">
-                        <p class="text-muted text-justify">
-                            <span class="big-number">5.</span> Already have a team? So you finish your pre-registration to EBEC
-                            Aveiro 2017. Soon you will receive an email with confirmation of registration and more information about the event.
+                    <li class="text-muted-diego">
+                        <p class="text-muted-diego text-justify">
+                            <span class="big-number-diego">5.</span> Already have a team? So you finish your pre-registration to EBEC Aveiro 2018. Soon you will receive an email with confirmation of registration and more information about the event.
                         </p>
                     </li>
                     <br/>
                 </ul>
             </div>
+        </div>
             <div class="col-md-12">
                 <h2 class="pull-right">We are waiting for you!</h2>
             </div>
