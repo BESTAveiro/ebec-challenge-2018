@@ -38,7 +38,14 @@ class Frontpage extends Main_Controller {
       	$this->load->view('include/footer');
 	}
 
-	public function contacts()
+    public function partnersen()
+    {
+        $this->load->view('include/headeren');
+        $this->load->view('partners-en');
+        $this->load->view('include/footer');
+    }
+
+    public function contacts()
 	{
 		$this->load->view('include/header');
       	$this->load->view('contacts');

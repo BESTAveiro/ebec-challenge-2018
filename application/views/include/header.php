@@ -100,7 +100,7 @@
 <!--                          </ul>-->
 <!--                      </li>-->
                       <li>
-                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/querparceiro')?>">Seja nosso parceiro</a>
+                          <a class="page-scroll" href="<?php echo base_url('index.php/frontpage/partners')?>">Parcerias</a>
                       </li>
                       <script>
                           var x = document.getElementById('box');
