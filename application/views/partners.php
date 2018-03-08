@@ -69,6 +69,7 @@
                 </div>
 
             </div>
+
 <br><br><br>
             <div>
                 <img class="img-responsive img-center" src="<?php echo base_url('assets/img/partners/ebec/linha.png')?>" style="">
@@ -80,14 +81,6 @@
             </div>
             <br/><br/><br/><br/><br/>
             <br/><br/>
-            <div class="row vertical-align">
-                <div class="col-md-3">
-                </div>
-
-            </div>
-            <div class="col-md-1">
-
-            </div>
             <div class="col-md-3">
                 <a href="http://www.btl.pt/" target="_blank">
                     <img class="img-responsive img-center" style="max-height:120px" src="<?php echo base_url('assets/img/partners/ebec/silver/btl.png')?>" >
@@ -103,7 +96,21 @@
                     <img class="img-responsive img-center" style="max-height:190px" src="<?php echo base_url('assets/img/partners/ebec/silver/alticelabs.png')?>">
                 </a>
             </div>
-        </div>
+            <div class="col-md-3">
+                <a href="http://www.colep.com/" target="_blank">
+                    <img class="img-responsive img-center" style="max-height:190px" src="<?php echo base_url('assets/img/partners/ebec/silver/colep.png')?>">
+                </a>
+            </div> <br><br><br><br><br><br><br><br><br><br><br><br>
+            <div class="row vertical-align">
+                <div class="col-md-4">
+
+                </div>
+                <div class="col-md-3">
+                    <a href="https://blip.pt/" target="_blank">
+                        <img class="img-responsive img-center" style="max-height:155px" src="<?php echo base_url('assets/img/partners/ebec/silver/blip.png')?>">
+                    </a>
+                </div>
+            </div>
 <br><br><br>
         <div>
             <img class="img-responsive img-center" src="<?php echo base_url('assets/img/partners/ebec/linha.png')?>" style="">
