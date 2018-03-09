@@ -324,7 +324,7 @@
         <section id="backgroung_section_blue" >
             <div class="row" style="height: 400px;">
                 <h2 class="section-heading">Programa</h2>
-                <img class="img_schedule img-responsive img-center" src="<?php echo base_url('assets/img/ebc_material/Schedule.png')?>">
+                <img class="img_schedule img-responsive img-center" src="<?php echo base_url('assets/img/Schedule/Schedule.png')?>">
             </div>
         </section>
 
@@ -471,6 +471,26 @@
         </div>
         <br>
 </section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading title_color_diego_blue">Júris</h2>
+                <h4 class="section-subheading text-muted">Quem vai avaliar a tua prova</h4>
+                <br>
+                <p>
+                    No fim de concluíres as tuas provas, elas seguirão para as mãos de júris especializados.
+                </p>
+                <p>
+                    Podes consultar
+                    <a class="text-muted" target="_blank" href="<?php echo base_url('assets/juris/Juris.pdf')?>" style="color:#0645AD">aqui</a>
+                    informação sobre as pessoas que te vão avaliar!
+                </p>
+            </div>
+        </div>
+    </div>
+
 
 <section>
     <div class="container">

@@ -472,6 +472,26 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
+                <h2 class="section-heading title_color_diego_blue">Juries</h2>
+                <h4 class="section-subheading text-muted">Who will evaluate your competition?</h4>
+                <br>
+                <p>
+                    After concluding the competition, the efforts that you made will be evaluated by specialized juries.
+                </p>
+                <p>
+                    You can consult
+                    <a class="text-muted" target="_blank" href="<?php echo base_url('assets/juris/Juris.pdf')?>" style="color:#0645AD">here</a>
+                    information about the people who are going to evaluate your tests!
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
                 <h2 class="section-heading title_color_diego_blue">Testimonies</h2>
                 <h3 class="section-subheading text-muted">Professors and Participants</h3>
             </div>
