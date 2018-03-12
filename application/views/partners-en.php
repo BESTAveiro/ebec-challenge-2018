@@ -82,7 +82,7 @@
             <br/><br/>
             <div class="col-md-3">
                 <a href="http://www.btl.pt/" target="_blank">
-                    <img class="img-responsive img-center" style="max-height:120px" src="<?php echo base_url('assets/img/partners/ebec/silver/btl.png')?>" >
+                    <img class="img-responsive img-center" style="max-height:140px" src="<?php echo base_url('assets/img/partners/ebec/silver/btl.png')?>" >
                 </a>
             </div>
             <div class="col-md-3">
@@ -140,51 +140,45 @@
                     <img class="img-center" style="max-height:120px" src="<?php echo base_url('assets/img/partners/ebec/promo/CanYouEscape.png')?>" style="">
                 </a>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <a href="https://www.facebook.com/Mirtiflor-745004355521875/" target="_blank">
                     <img class="img-center" style="max-height:120px" src="<?php echo base_url('assets/img/partners/ebec/promo/mirtiflor.png')?>" style="">
                 </a>
             </div>
+            <div class="col-md-2">
+                <a href="https://www.jugais.com/" target="_blank">
+                    <img class="img-center" style="max-height:130px" src="<?php echo base_url('assets/img/partners/ebec/promo/quintadejugais.png')?>" style="">
+                </a>
+            </div>
 
         </div>
+            <br><br><br>
+
+            <!--            segunda linha
+    -->
+
+            <div class="row vertical-align">
+                <div class="col-md-2">
+
+                </div>
+                <div class="col-md-2">
+                    <a href="http://nomini.pt/" target="_blank">
+                        <img class="img-center" style="max-height:135px" src="<?php echo base_url('assets/img/partners/ebec/promo/nomini.png')?>" style="">
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="http://vidaedu.com/" target="_blank">
+                        <img class="img-center" style="max-height:75px" src="<?php echo base_url('assets/img/partners/ebec/promo/vidaedu.png')?>" style="">
+                    </a>
+                </div>
+                <div class="col-md-2">
+                    <a href="http://www.royalschool.pt/" target="_blank">
+                        <img class="img-center" style="max-height:100px" src="<?php echo base_url('assets/img/partners/ebec/promo/royalschool.png')?>" style="">
+                    </a>
+                </div>
+            </div>
+        </div>
+
         <br><br><br>
-        <!--        <div>-->
-        <!--            <img class="img-responsive img-center" src="--><?php //echo base_url('assets/img/partners/ebec/linha.png')?><!--" style="">-->
-        <!--        </div>-->
-        <br><br>
-
-
-        <!--            segunda linha
--->
-
-        <!--            <div class="row vertical-align">-->
-        <!--            <div class="col-md-3 top1">-->
-        <!--                <a href="http://www.vieiradecastro.pt/" target="_blank">-->
-        <!--                    <img class="img-responsive img-center"-->
-        <!--                         style="max-height:150px" src="--><?php //echo base_url('assets/img/partners/ebec/base/vieira.jpg')?><!--" style="">-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="col-md-3 top1">-->
-        <!--                <a href="http://www.paladin.pt/pt-pt" target="_blank">-->
-        <!--                    <img class="img-responsive img-center"-->
-        <!--                         style="max-height:150px" src="--><?php //echo base_url('assets/img/partners/ebec/base/paladin.png')?><!--" style="">-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="col-md-3 top1">-->
-        <!--                <a href="http://canyouescape.pt/pt/index.php/pt/homepage/" target="_blank">-->
-        <!--                    <img class="img-responsive img-center"-->
-        <!--                         style="max-height:150px" src="--><?php //echo base_url('assets/img/partners/ebec/base/CanYouEscape.png')?><!--" style="">-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="col-md-3 top1">-->
-        <!--                <a href="http://www.jpm.pt/" target="_blank">-->
-        <!--                    <img class="img-responsive img-center" height="100px"-->
-        <!--                         style="max-height:100px" src="--><?php //echo base_url('assets/img/partners/ebec/base/JPM.jpg')?><!--" style="">-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            </div>-->
-    </div>
-
-</section>
 
 </section>
