@@ -426,9 +426,13 @@
                     </p>
                     <p class="text-muted text-justify e" style="color: #000000;">
                         It will be a space where companies from different sectors will take place and will a close
-                        contact between comapnies and the academic community. The students will have the opportunity to
+                        contact between companies and the academic community. The students will have the opportunity to
                         know the activity of the present entities, interact with them and there will also be a space
                         dedicated to interviews made by the companies.
+                    </p>
+                    <br>
+                    <p>
+                        <b>Voltalia Group</b> is one of the companies that will be taking place at the job fair.
                     </p>
 
                 </div>
@@ -436,6 +440,24 @@
         </div>
     </div>
 </section>
+
+<section class="">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <p class="center"><b></b></p>
+                <div class="col-md-2">
+
+                </div>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/ErQsycVS3js" allowfullscreen="" frameborder="0" width="100px" height="300px"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<br><br>
 
 <!-- BTD -->
 <section id="backgroung_section_blue">
@@ -475,13 +497,15 @@
                 <h2 class="section-heading title_color_diego_blue">Juries</h2>
                 <h4 class="section-subheading text-muted">Who will evaluate your competition?</h4>
                 <br>
+            </div>
+            <div class="">
                 <p>
                     After concluding the competition, the efforts that you made will be evaluated by specialized juries.
                 </p>
                 <p>
                     You can consult
                     <a class="text-muted" target="_blank" href="<?php echo base_url('assets/juris/Juris.pdf')?>" style="color:#0645AD">here</a>
-                    information about the people who are going to evaluate your tests!
+                    information about the people who are going to evaluate your results.
                 </p>
             </div>
         </div>

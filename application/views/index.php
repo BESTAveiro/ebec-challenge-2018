@@ -412,7 +412,6 @@
 
 
 
-
 <!-- Feira de Empresas -->
 <section id="">
     <div class="container">
@@ -436,12 +435,34 @@
                         entidades presentes, interagir com elas e haverá ainda um espaço dedicado a entrevistas por parte
                         das empresas presentes.
                     </p>
+                    <br>
+                    <p>
+                        Uma das empresas presentes será o <b>Grupo Voltalia</b>.
+                    </p>
 
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<section class="">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <p class="center"><b></b></p>
+                <div class="col-md-2">
+
+                </div>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/ErQsycVS3js" allowfullscreen="" frameborder="0" width="100px" height="300px"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<br><br>
 
 <!-- BTD -->
 <section id="backgroung_section_blue">
@@ -479,13 +500,15 @@
                 <h2 class="section-heading title_color_diego_blue">Júris</h2>
                 <h4 class="section-subheading text-muted">Quem vai avaliar a tua prova</h4>
                 <br>
+            </div>
+            <div>
                 <p>
                     No fim de concluíres as tuas provas, elas seguirão para as mãos de júris especializados.
                 </p>
                 <p>
                     Podes consultar
                     <a class="text-muted" target="_blank" href="<?php echo base_url('assets/juris/Juris.pdf')?>" style="color:#0645AD">aqui</a>
-                    informação sobre as pessoas que te vão avaliar!
+                    informação sobre as pessoas que te vão avaliar.
                 </p>
             </div>
         </div>
