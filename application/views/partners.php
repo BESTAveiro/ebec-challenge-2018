@@ -172,9 +172,14 @@
                         <img class="img-center" style="max-height:75px" src="<?php echo base_url('assets/img/partners/ebec/promo/vidaedu.png')?>" style="">
                     </a>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <a href="http://www.royalschool.pt/" target="_blank">
                         <img class="img-center" style="max-height:100px" src="<?php echo base_url('assets/img/partners/ebec/promo/royalschool.png')?>" style="">
+                    </a>
+                </div>
+                <div class="col-md-2">
+                    <a href="https://www.nestle-cereals.com/pt/pt/?gclid=CjwKCAjws6jVBRBZEiwAkIfZ2u3zj7FeQqJQHqiBYGFnsF3NI9e9-rXDlSVgVD2Z67gQi-QJAjqxERoCBxgQAvD_BwE" target="_blank">
+                        <img class="img-center" style="max-height:130px" src="<?php echo base_url('assets/img/partners/ebec/promo/nestle.png')?>" style="">
                     </a>
                 </div>
             </div>
