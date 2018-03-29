@@ -183,6 +183,34 @@
                     </a>
                 </div>
             </div>
+
+            <br><br><br>
+
+            <!--            terceira linha
+-->
+
+            <div class="row vertical-align">
+                <div class="col-md-1">
+
+                </div>
+                <div class="col-md-2">
+
+                </div>
+                <div class="col-md-3">
+                    <a href="http://vidaedu.com/" target="_blank">
+                        <img class="img-center" style="max-height:95px" src="<?php echo base_url('assets/img/partners/ebec/promo/igus.bmp')?>" style="">
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="http://www.royalschool.pt/" target="_blank">
+                        <img class="img-center" style="max-height:100px" src="<?php echo base_url('assets/img/partners/ebec/promo/latina.png')?>" style="">
+                    </a>
+                </div>
+                <div class="col-md-2">
+
+                </div>
+            </div>
+        </div>
     </div>
 
         <br><br><br>
