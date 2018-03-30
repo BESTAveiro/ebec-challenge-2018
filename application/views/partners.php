@@ -197,12 +197,12 @@
 
                 </div>
                 <div class="col-md-3">
-                    <a href="http://vidaedu.com/" target="_blank">
+                    <a href="https://www.igus.pt/" target="_blank">
                         <img class="img-center" style="max-height:95px" src="<?php echo base_url('assets/img/partners/ebec/promo/igus.bmp')?>" style="">
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="http://www.royalschool.pt/" target="_blank">
+                    <a href="http://www.pastelarialatina.com/" target="_blank">
                         <img class="img-center" style="max-height:100px" src="<?php echo base_url('assets/img/partners/ebec/promo/latina.png')?>" style="">
                     </a>
                 </div>
